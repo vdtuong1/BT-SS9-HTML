@@ -1,0 +1,10 @@
+.demo {
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    transition: 2s;
+    color: aliceblue;
+}
+.demo:hover {
+    background-color: rgb(99, 94, 94);
+}
